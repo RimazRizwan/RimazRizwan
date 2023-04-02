@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://rimazrizwan.github.io/portfolio/](https://rimazrizwan.github.io/portfolio/about.html)
+- 👨‍💻 All of my projects are available at [https://rimazrizwan.github.io/portfolio/](https://rimazrizwan.github.io/portfolio/index.html)
 
 - 📫 How to reach me **rimazrizwan2001717@gmail.com**
 
